@@ -1,1 +1,2 @@
 A CLI to help with using FlutterFire in your Flutter applications.
+# handle the edge case from the last release
