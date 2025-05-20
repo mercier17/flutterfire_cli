@@ -3,3 +3,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # clarify the control flow
 # guard against empty input
 # keep defaults in sync with the manifest
+# clarify the control flow
