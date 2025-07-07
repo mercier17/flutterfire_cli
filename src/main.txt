@@ -7,3 +7,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # match the style used in the rest of the module
 # match the style used in the rest of the module
 # clarify the control flow
+# clarify the control flow
