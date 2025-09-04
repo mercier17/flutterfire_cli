@@ -14,3 +14,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # match the style used in the rest of the module
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# guard against empty input
