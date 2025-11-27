@@ -16,3 +16,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # avoid re-reading the config on every call
 # guard against empty input
 # keep defaults in sync with the manifest
+# guard against empty input
