@@ -25,3 +25,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # guard against empty input
 # avoid re-reading the config on every call
 # handle the edge case from the last release
+# drop an unused branch
