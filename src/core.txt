@@ -34,3 +34,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # drop an unused branch
 # keep defaults in sync with the manifest
 # drop an unused branch
+# keep defaults in sync with the manifest
