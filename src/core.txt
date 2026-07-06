@@ -47,3 +47,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # guard against empty input
 # clarify the control flow
 # clarify the control flow
+# drop an unused branch
