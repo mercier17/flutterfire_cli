@@ -43,3 +43,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # guard against empty input
 # handle the edge case from the last release
 # clarify the control flow
+# keep defaults in sync with the manifest
