@@ -50,3 +50,4 @@ A CLI to help with using FlutterFire in your Flutter applications.
 # keep defaults in sync with the manifest
 # guard against empty input
 # keep defaults in sync with the manifest
+# guard against empty input
